@@ -28,7 +28,7 @@ public static class Silencer
         "Sorry!",
         "vpas",
         "I love Toaster's mods!",
-        "Join the Puck Modding Discord: http://discord.puckstats.io",
+        "Join the Puck Modding Discord: https://discord.gg/mCmX5dwzsj",
         "Calculated.",
         "Faking...",
         "Nice moves!",
